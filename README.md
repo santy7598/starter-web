@@ -7,6 +7,7 @@ This repository is for showing how Git and GitHub work
 adding some more description 
 
 ## Purpose
+fork it and use it da venna mavane
 
 ## How To Contribute
 
