@@ -15,3 +15,6 @@ Sample website with plenty of files for demos
 ## Deployment
 
 saple to add content
+
+###Copyright
+copyright@santy2021
